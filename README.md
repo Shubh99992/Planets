@@ -2,10 +2,11 @@
 
 
 
-![my badge](https://img.shields.io/badge/Made%20with-Flutter-blue?style=for-the-badge&logo=flutter)  &nbsp;  &nbsp; ![my badge](https://img.shields.io/github/last-commit/Shubh99992/Planets/master?style=for-the-badge) 
+![my badge](https://img.shields.io/badge/Made%20with-Flutter-blue?style=for-the-badge&logo=flutter)  &nbsp;  &nbsp; ![my badge](https://img.shields.io/github/last-commit/Shubh99992/Planets?style=for-the-badge) 
 &nbsp;
-## "Explore solar system with Planets app with beautiful UI & Animation"
+## "Explore Solar System with Planets App "
 &nbsp;
+
 [<img src="https://user-images.githubusercontent.com/34805219/220257013-a3a282e8-b2cd-4916-ae7c-2951ee6bc2df.png" width="50%">](https://user-images.githubusercontent.com/34805219/220256095-813b38ca-8fe0-4868-aa72-7712370fa587.mp4 "Now in Android: 55")
 
 
