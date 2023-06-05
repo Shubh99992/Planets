@@ -44,31 +44,31 @@ class _HomePageState extends State<HomePage> {
                       ),
                     ],
                   ),
-                  Row(
-                    children: [
-                      DropdownButton(
-                        items: const [
-                          DropdownMenuItem(
-                            child: Text(
-                              'Solar System',
-                              style: TextStyle(
-                                  fontFamily: 'Avenir',
-                                  fontSize: 24,
-                                  color: Color(0x7cdbf1ff),
-                                  fontWeight: FontWeight.w500),
-                              textAlign: TextAlign.left,
-                            ),
-                          )
-                        ],
-                        onChanged: (value) {},
-                        icon: Padding(
-                          padding: const EdgeInsets.all(16.0),
-                          child: Image.asset("assets/drop_down_icon.png"),
-                        ),
-                        underline: const SizedBox(),
-                      ),
-                    ],
-                  ),
+//                   Row(
+// //                     children: [
+// //                       DropdownButton(
+// //                         items: const [
+// //                           DropdownMenuItem(
+// //                             child: Text(
+// //                               'Solar System',
+// //                               style: TextStyle(
+// //                                   fontFamily: 'Avenir',
+// //                                   fontSize: 24,
+// //                                   color: Color(0x7cdbf1ff),
+// //                                   fontWeight: FontWeight.w500),
+// //                               textAlign: TextAlign.left,
+// //                             ),
+// //                           )
+// //                         ],
+// //                         onChanged: (value) {},
+// //                         icon: Padding(
+// //                           padding: const EdgeInsets.all(16.0),
+// //                           child: Image.asset("assets/drop_down_icon.png"),
+// //                         ),
+// //                         underline: const SizedBox(),
+// //                       ),
+// //                     ],
+//                   ),
                 ],
               ),
             ),
